@@ -1,0 +1,13 @@
+enrollment_id,full_name,email,phone,course_id,branch_id,department_id,admission_year,current_year,current_semester,expected_graduation,status,cgpa,attendance_pct,avatar_url
+240101,Aarav Patel,aarav.patel@uni.edu,+91 98765 43210,BTECH,CSE,DEPT_CS,2023,2,4,2027,Active,8.74,86.5,https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=256&q=80
+240102,Priya Sharma,priya.sharma@uni.edu,+91 98765 43211,BTECH,CSE,DEPT_CS,2023,2,4,2027,Active,9.22,91.0,https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=256&q=80
+240103,Rohan Verma,rohan.verma@uni.edu,+91 98765 43212,BTECH,AIDS,DEPT_CS,2023,2,4,2027,Active,7.40,78.2,https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=256&q=80
+240104,Sneha Kulkarni,sneha.k@uni.edu,+91 98765 43213,BTECH,ECE,DEPT_EC,2022,3,6,2026,Active,8.55,84.0,https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=256&q=80
+240105,Aditya Nair,aditya.n@uni.edu,+91 98765 43214,BTECH,MECH,DEPT_ME,2022,3,6,2026,Active,6.85,69.5,https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=256&q=80
+240106,Ananya Roy,ananya.roy@uni.edu,+91 98765 43215,MTECH,CS_M,DEPT_CS,2024,1,2,2026,Active,9.05,94.2,https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=256&q=80
+240107,Kavya Iyer,kavya.iyer@uni.edu,+91 98765 43216,MBA,FIN_MBA,DEPT_MGMT,2023,2,4,2025,Active,8.90,89.0,https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=256&q=80
+240108,Devansh Gupta,devansh.g@uni.edu,+91 98765 43217,BBA,MKT_BBA,DEPT_MGMT,2024,1,2,2027,Active,7.15,72.4,https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=256&q=80
+240109,Meera Joshi,meera.j@uni.edu,+91 98765 43218,BPHARM,PHARM,DEPT_PHARM,2022,3,6,2026,Active,8.32,87.6,https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=256&q=80
+240110,Vikramaditya Rao,vikram.rao@uni.edu,+91 98765 43219,MBBS,MED,DEPT_MED,2021,4,8,2026,Active,8.85,92.5,https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=256&q=80
+240111,Rahul Sen,rahul.sen@uni.edu,+91 98765 43220,BTECH,CSE,DEPT_CS,2023,2,4,2027,Active,5.92,62.0,https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=256&q=80
+240112,Zoya Khan,zoya.khan@uni.edu,+91 98765 43221,BTECH,CYBER,DEPT_CS,2023,2,4,2027,Active,8.60,88.0,https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=256&q=80

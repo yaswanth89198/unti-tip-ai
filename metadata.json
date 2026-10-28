@@ -1,0 +1,6 @@
+{
+  "name": "UniTrack AI - University Student Performance & Talent Analytics",
+  "description": "AI-based university student performance, attendance, semester marks, talent portfolio, and early academic support analytics system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+course_id,course_name,program_level,department_id,total_semesters,total_credits,assessment_rule
+BTECH,Bachelor of Technology,Undergraduate,DEPT_CS,8,160,Internal:40%|External:60%|MinPassing:40%
+MTECH,Master of Technology,Postgraduate,DEPT_CS,4,80,Internal:40%|External:60%|MinPassing:50%
+BBA,Bachelor of Business Administration,Undergraduate,DEPT_MGMT,6,120,Internal:30%|External:70%|MinPassing:40%
+MBA,Master of Business Administration,Postgraduate,DEPT_MGMT,4,90,Internal:40%|External:60%|MinPassing:50%
+BCOM,Bachelor of Commerce,Undergraduate,DEPT_COMM,6,120,Internal:25%|External:75%|MinPassing:35%
+BSC,Bachelor of Science,Undergraduate,DEPT_SCI,6,120,Internal:30%|External:70%|MinPassing:40%
+MSC,Master of Science,Postgraduate,DEPT_SCI,4,80,Internal:40%|External:60%|MinPassing:50%
+BPHARM,Bachelor of Pharmacy,Undergraduate,DEPT_PHARM,8,180,Internal:25%|External:75%|MinPassing:50%
+MBBS,Bachelor of Medicine and Bachelor of Surgery,Professional,DEPT_MED,10,240,Theory:50%|Clinical:50%|MinPassing:50%
+AGRI,B.Sc (Hons) Agriculture,Undergraduate,DEPT_AGRI,8,160,Internal:30%|Field:30%|External:40%|MinPassing:45%
+HM,B.Sc Hotel Management & Hospitality,Undergraduate,DEPT_HM,6,130,Internal:30%|Practical:40%|External:30%|MinPassing:40%

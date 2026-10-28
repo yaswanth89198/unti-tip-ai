@@ -1,0 +1,16 @@
+subject_code,subject_name,course_id,semester,credits,faculty_name,max_internal,max_external,max_practical,description
+CS101,Engineering Mathematics I,BTECH,1,4,Prof. R. Sharma,40,60,0,Differential calculus, matrices, Fourier analysis and linear algebra.
+CS102,Programming with C & Data Structures,BTECH,1,4,Dr. V. Rao,30,50,20,Procedural programming, pointers, linked lists, stacks and queues.
+CS201,Data Structures & Algorithms,BTECH,3,4,Dr. V. Rao,30,50,20,Trees, graphs, asymptotic complexity, sorting and dynamic programming.
+CS202,Database Management Systems,BTECH,3,4,Prof. Anita Sen,30,50,20,Relational algebra, SQL, normalization, concurrency control and indexing.
+CS301,Design and Analysis of Algorithms,BTECH,4,4,Dr. S. Mehta,30,50,20,Greedy techniques, divide-and-conquer, NP-completeness and branch-and-bound.
+CS302,Operating Systems & Kernels,BTECH,4,4,Prof. M. Joshi,30,50,20,Process synchronization, virtual memory management, file systems and scheduling.
+CS303,Computer Networks,BTECH,4,4,Dr. K. Nair,30,50,20,OSI and TCP/IP stack, routing protocols, flow control and socket programming.
+CS304,Artificial Intelligence Principles,BTECH,4,3,Dr. Anita Sen,30,70,0,Search algorithms, heuristic search, knowledge representation, inference.
+CS401,Machine Learning & Deep Learning,BTECH,5,4,Dr. Anita Sen,30,50,20,Supervised learning, CNNs, RNNs, transformers and regularization.
+CS402,Cloud Computing & DevOps,BTECH,5,3,Prof. A. Bansal,30,70,0,Virtualization, containerization (Docker, K8s), microservices and AWS.
+EC201,Digital Electronics,BTECH,3,4,Dr. P. Kulkarni,30,50,20,Combinational and sequential circuits, flip-flops, multiplexers, VHDL.
+ME201,Thermodynamics,BTECH,3,4,Dr. K. Verma,40,60,0,Laws of thermodynamics, heat engines, entropy, enthalpy, refrigeration cycles.
+MBA101,Financial Accounting & Analysis,MBA,1,4,Dr. H. Saxena,40,60,0,Balance sheets, profit and loss, cash flow, financial ratios.
+MBA201,Corporate Finance,MBA,2,4,Dr. H. Saxena,40,60,0,Capital budgeting, cost of capital, capital structure, portfolio theory.
+MED301,Pathology & Microbiology,MBBS,3,6,Dr. R. Kapoor,40,40,20,Cellular adaptations, inflammation, infectious diseases, laboratory diagnostics.

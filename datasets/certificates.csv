@@ -1,0 +1,9 @@
+certificate_id,enrollment_id,title,issuing_authority,issue_date,expiry_date,credential_id,verification_status,skills_covered
+1,240101,AWS Certified Solutions Architect - Associate,Amazon Web Services,2025-09-15,2028-09-15,AWS-SAA-8392019,Verified,Cloud Architecture;S3;EC2;VPC;IAM
+2,240101,TensorFlow Developer Certificate,Google / DeepLearning.AI,2025-06-20,2028-06-20,TF-CERT-90412,Verified,Deep Learning;Convolutional Neural Networks;Keras
+3,240102,Google Cloud Professional Data Engineer,Google Cloud Platform,2025-10-10,2027-10-10,GCP-PDE-449102,Verified,BigQuery;Dataflow;Pub/Sub;Vertex AI
+4,240102,Deep Learning Specialization,Coursera / DeepLearning.AI,2025-04-12,,COURSERA-DL-9821,Verified,Transformers;RNNs;Attention Models
+5,240103,Cisco Certified Network Associate (CCNA),Cisco Systems,2025-12-05,2028-12-05,CCNA-772910,Verified,IP Routing;Switching;Network Security
+6,240104,Embedded Systems & IoT Specialization,ARM Education,2025-11-20,,ARM-EMB-10394,Verified,Microcontrollers;RTOS;Sensors
+7,240107,CFA Institute Investment Foundations,CFA Institute,2025-08-14,,CFA-IF-88392,Verified,Equities;Debt;Derivatives;Ethics
+8,240111,Python for Data Science Bootcamp,Udemy,2026-02-10,,UC-PY-77402,Pending,Python;Pandas;NumPy

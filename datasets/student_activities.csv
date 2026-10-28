@@ -1,0 +1,10 @@
+activity_id,enrollment_id,semester,category,title,description,organization_event,achievement,verification_status,date_recorded
+1,240101,3,Hackathon,Smart India Hackathon Finalist,Built IoT Smart Crop Health monitoring system,Ministry of Education,Top 10 National Team,Verified,2025-11-14
+2,240101,4,Technical Project,UniTrack AI Analytics Module,Architected student performance predictive microservice,Internal Lab,Completed & Deployed,Verified,2026-03-20
+3,240102,4,Research Paper,Automated Defect Detection via Vision Transformers,Co-authored paper accepted at IEEE ICASSP 2026,IEEE Student Branch,First Author,Verified,2026-02-18
+4,240102,3,Internship,Machine Learning Intern,Trained NLP summarization pipelines for medical records,InnovateAI Tech Solutions,Full-Time Stipend (INR 45000/mo),Verified,2025-08-30
+5,240103,4,Workshop,Hands-on Kubernetes & Docker Microservices,3-day hands-on container orchestration boot camp,Cloud Native Computing Group,Certificate of Completion,Verified,2026-01-12
+6,240104,5,Sports,Inter-University Badminton Championship,Led college women's team to state semi-finals,State Sports Association,Silver Medalist,Verified,2025-12-10
+7,240107,3,Internship,Investment Banking Summer Analyst,Equity research and DCF valuation models for tech firms,Morgan Stanley Mumbai,PPO Offered (18.5 LPA),Verified,2025-07-25
+8,240108,2,Cultural,Annual Fest Lead Organizer,Managed sponsorships and 2500+ participant logistics,University Cultural Committee,Best Organizer Citation,Verified,2026-02-05
+9,240111,4,Bootcamp,Full-Stack Web Development,Enrolled in supplemental web development bootcamp,CodeAcademy,In Progress,Pending,2026-03-01
